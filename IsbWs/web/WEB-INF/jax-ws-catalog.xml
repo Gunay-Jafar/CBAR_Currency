@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="https://www.cbar.az/currencies/27.08.2020.xml?asmx.wsdl" uri="wsdl/www.cbar.az/currencies/27.08.2020.xml.asmx.wsdl.xml"/>
+</catalog>
